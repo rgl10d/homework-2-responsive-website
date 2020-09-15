@@ -1,4 +1,32 @@
 .navbar-light .navbar-brand {
-    background: gray;
+    background: #4aaaa5;
     color: white;
+}
+
+body {
+    background-image: url(../Images/ignasi_pattern_s.png);
+    background-size: auto;
+}
+
+h1 {
+    font-family: serif;
+    font-weight: bolder;
+    color: #4aaaa5;
+    margin-top: 20px;
+}
+
+/* Index content box */
+.col-sm-10 {
+    background: white;
+}
+
+.container{
+    margin-top: 75px;
+    margin-left: 25px;
+    position: fixed;
+    float: left;
+}
+
+@media screen and (max-width: 576px) {
+    .col-sm-10 {width: 88%;}
 }
