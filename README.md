@@ -17,7 +17,6 @@ The 'div' tags were reordered and replaced with HTML semantic elements:
   - **header** - Contains a heading element for the entire page or within another parent tag.
   - **nav** - Containing all the elements of the navbar at the top of the window.
   - **figure** - Tag in general for images; all portfolio images are contained in figure tags.
-  - **section** - A portion of a page/larger section.
   - **article** - Tag contains things that could be displayed independantly of the rest of the page and still make sense.
   - **footer** - The footer/bottom of the page.
 
