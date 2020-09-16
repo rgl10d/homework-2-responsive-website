@@ -1,4 +1,4 @@
-### My Responsive Portfolio Website ###
+# My Responsive Portfolio Website ###
 
 ## Bootstrap
 
