@@ -1,3 +1,11 @@
 #emailtitle{
     margin-top: 15px;
 }
+
+.control-label{
+    font-weight: 500;
+}
+
+.btn-lg{
+    background-color: #4aaaa5;
+}
