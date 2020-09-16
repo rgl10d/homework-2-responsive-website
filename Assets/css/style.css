@@ -1,7 +1,6 @@
 /* General Styles */
 body {
     background-image: url(../Images/ignasi_pattern_s.png);
-    background-size: auto;
 }
 
 h1 {
@@ -26,6 +25,7 @@ h1 {
     background: white;
     width: 93%;
     max-width: 720px;
+    margin-bottom: 60px;
 }
 
 /* Footer */
